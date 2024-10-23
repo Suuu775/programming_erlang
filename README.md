@@ -1,1 +1,1 @@
-Part of an unreliable exercise in the book programming erlang
+the solution have no test,so it's may be unreliable.
